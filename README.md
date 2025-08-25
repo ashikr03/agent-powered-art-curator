@@ -1,1 +1,2 @@
 Hi! Here, I've attempted to create an agentic AI art curator that suggests artwork from the MET library's that matches the user's query. Powered my Ollama, it takes in a natural language query and ouputs a relevant suggestion based on the MET API.
+<img width="1254" height="464" alt="Screenshot 2025-08-24 at 10 16 52 PM" src="https://github.com/user-attachments/assets/4765b7b9-e8b0-4dd0-8dcb-5e5d69772626" />
